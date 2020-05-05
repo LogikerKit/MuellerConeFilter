@@ -7,4 +7,9 @@ The implementation of the derived filters and its numerical application to some 
 
 Please cite:
 
-	tba.
+	@misc{z2019mueller,
+    title={The Mueller matrix cone and its application to filtering},
+    author={Tim Zander and Jürgen Beyerer},
+    year={2019},
+    journal={to appear}
+	}
